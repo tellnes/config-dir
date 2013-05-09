@@ -23,7 +23,10 @@ baz=World
 ```
 
 run:
-    $ CONFIG_DIR=/home/me/configs/ node app.js
+
+    CONFIG_DIR=/home/me/configs/ node app.js
+
+output:
 
 ```json
 {"foo":{"bar":"Hello","baz":"World"}}
