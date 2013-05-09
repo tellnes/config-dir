@@ -1,0 +1,21 @@
+{
+  "name": "config-dir",
+  "version": "0.0.0",
+  "description": "config-dir",
+  "main": "index.js",
+  "dependencies": {
+    "ini": "~1.1.0",
+    "traceback": "~0.3.0",
+    "optimist": "~0.4.0",
+    "nconf": "~0.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/config-dir.git"
+  },
+  "keywords": [],
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
+  "license": "MIT"
+}
