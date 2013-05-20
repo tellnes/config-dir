@@ -2,6 +2,8 @@
 
 config-dir
 
+[![Dependency Status](https://gemnasium.com/tellnes/config-dir.png)](https://gemnasium.com/tellnes/config-dir)
+
 ## Usage
 
 app.js:
