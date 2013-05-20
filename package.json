@@ -6,7 +6,7 @@
   "dependencies": {
     "ini": "~1.1.0",
     "traceback": "~0.3.0",
-    "optimist": "~0.4.0",
+    "optimist": "~0.5.0",
     "nconf": "~0.6.7"
   },
   "devDependencies": {},
